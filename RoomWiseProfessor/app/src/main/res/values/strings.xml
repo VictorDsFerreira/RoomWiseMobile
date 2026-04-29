@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RoomWise Professor</string>
+    <string name="login_title">RoomWise Professor</string>
+    <string name="login_subtitle">Entre com o mesmo usuario do sistema web.</string>
+    <string name="login_welcome">Bem-vindo ao RoomWise</string>
+    <string name="logo_text">RoomWise Solutions</string>
+    <string name="usuario_hint">Digite seu usuario</string>
+    <string name="senha_hint">Digite sua senha</string>
+    <string name="esqueceu_senha">Esqueceu a senha?</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Acessar</string>
+    <string name="minha_grade">Minha grade</string>
+    <string name="periodo_semana">Semana atual</string>
+    <string name="grade_hint">Somente turmas em que voce e o professor responsavel.</string>
+    <string name="carregando_aulas">Carregando aulas...</string>
+    <string name="tentar_novamente">Tentar novamente</string>
+    <string name="sair">Sair</string>
+</resources>

@@ -1,0 +1,36 @@
+# Build / Gradle (gerados ao compilar)
+**/build/
+.gradle/
+**/captures/
+
+# Cache Kotlin DSL / Gradle local
+.kotlin/
+
+# NDK / CMake
+.cxx/
+.externalNativeBuild/
+
+# Android Studio / IntelliJ (preferências locais da IDE)
+.idea/
+*.iml
+
+# SDK local e segredos do ambiente (URL/chave Supabase no seu projeto)
+local.properties
+
+# Assinatura de release (nunca versionar chaves)
+*.jks
+*.keystore
+
+# Pacotes gerados
+*.apk
+*.aab
+*.ap_
+
+# Logs e dumps de memória
+*.log
+*.hprof
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini

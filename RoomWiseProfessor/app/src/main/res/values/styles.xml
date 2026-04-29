@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.RoomWise.Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:minHeight">54dp</item>
+        <item name="backgroundTint">@color/rw_primary</item>
+        <item name="rippleColor">@color/rw_primary_soft</item>
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearance.RoomWise.Button</item>
+    </style>
+
+    <style name="Widget.RoomWise.TextInputLayout.Outlined" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundMode">outline</item>
+        <item name="boxBackgroundColor">@android:color/transparent</item>
+        <item name="boxStrokeColor">@color/rw_login_input_stroke</item>
+        <item name="hintTextColor">@color/rw_login_hint</item>
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearance.RoomWise.Input</item>
+    </style>
+
+    <style name="Widget.RoomWise.Toolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">@color/rw_bg_dark_alt</item>
+        <item name="titleTextColor">@color/rw_text_light</item>
+        <item name="subtitleTextColor">@color/rw_text_muted</item>
+    </style>
+
+    <style name="ShapeAppearance.RoomWise.Button" parent="@style/ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">14dp</item>
+    </style>
+
+    <style name="ShapeAppearance.RoomWise.Input" parent="@style/ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+
+    <style name="ShapeAppearance.RoomWise.Card" parent="@style/ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+</resources>

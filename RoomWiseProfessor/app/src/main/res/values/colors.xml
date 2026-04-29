@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rw_primary">#8D79E6</color>
+    <color name="rw_primary_dark">#6D57C8</color>
+    <color name="rw_primary_soft">#B6A7F3</color>
+    <color name="rw_bg_dark">#131C31</color>
+    <color name="rw_bg_dark_alt">#1A2540</color>
+    <color name="rw_surface_dark">#212F4D</color>
+    <color name="rw_surface_dark_soft">#2A3859</color>
+    <color name="rw_text_light">#F3F5FF</color>
+    <color name="rw_text_muted">#B8C1DD</color>
+    <color name="rw_outline">#3C4D74</color>
+    <color name="rw_login_bg_top">#2F2462</color>
+    <color name="rw_login_bg_bottom">#131C31</color>
+    <color name="rw_login_card">#F4F5FB</color>
+    <color name="rw_login_input_stroke">#CDD3E3</color>
+    <color name="rw_login_input_text">#2A3143</color>
+    <color name="rw_login_hint">#7F879A</color>
+    <color name="rw_error">#E85D75</color>
+</resources>
